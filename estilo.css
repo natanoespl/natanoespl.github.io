@@ -1,0 +1,44 @@
+body {
+    background: linear-gradient(to bottom, #000000 0%, #434343 100%);
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#linha {   
+    width: 300px;
+    border-bottom: 1px solid rgb(255, 255, 255);
+    position: absolute;
+    top:0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+.rodapé{
+   font-family: Arial;
+   color: white;
+   text-align: center;
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+
